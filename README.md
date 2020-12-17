@@ -12,6 +12,7 @@
 ## Примеры возможного UI
 
 ![](https://github.com/GlebLevotskiy/WeatherForecast/blob/main/UI%20examples/7.png)
+
 ![](https://github.com/GlebLevotskiy/WeatherForecast/blob/main/UI%20examples/6.png)
 ![](https://github.com/GlebLevotskiy/WeatherForecast/blob/main/UI%20examples/4.png)
 ![](https://github.com/GlebLevotskiy/WeatherForecast/blob/main/UI%20examples/2.png)
