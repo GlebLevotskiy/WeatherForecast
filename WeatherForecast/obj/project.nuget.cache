@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sMIe2BVj9Xk4rjXShw/QVHc7nYynZX1OM/RDuE2TnpbbXyGj+RgIv6qzmWp8D+wipYzyPTz1eOpa93GffM3DMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gleb\\source\\repos\\WeatherForecast\\WeatherForecast\\WeatherForecast.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gleb\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

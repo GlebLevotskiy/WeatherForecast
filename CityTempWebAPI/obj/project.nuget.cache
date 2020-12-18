@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IRgm9DRz9p5q7ReeLDgGJVyWqXX1TRZtrjbyo/jvgRE0mSYn9kWo8RF1B+x+JwD8orTzMgfAS7IKocXI6GhRDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gleb\\source\\repos\\WeatherForecast\\CityTempWebAPI\\CityTempWebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gleb\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

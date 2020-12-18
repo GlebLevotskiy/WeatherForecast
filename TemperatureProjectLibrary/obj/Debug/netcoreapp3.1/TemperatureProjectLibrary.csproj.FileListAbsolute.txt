@@ -1,0 +1,9 @@
+C:\Users\Gleb\source\repos\WeatherForecast\TemperatureProjectLibrary\bin\Debug\netcoreapp3.1\TemperatureProjectLibrary.deps.json
+C:\Users\Gleb\source\repos\WeatherForecast\TemperatureProjectLibrary\bin\Debug\netcoreapp3.1\TemperatureProjectLibrary.dll
+C:\Users\Gleb\source\repos\WeatherForecast\TemperatureProjectLibrary\bin\Debug\netcoreapp3.1\TemperatureProjectLibrary.pdb
+C:\Users\Gleb\source\repos\WeatherForecast\TemperatureProjectLibrary\obj\Debug\netcoreapp3.1\TemperatureProjectLibrary.csprojAssemblyReference.cache
+C:\Users\Gleb\source\repos\WeatherForecast\TemperatureProjectLibrary\obj\Debug\netcoreapp3.1\TemperatureProjectLibrary.AssemblyInfoInputs.cache
+C:\Users\Gleb\source\repos\WeatherForecast\TemperatureProjectLibrary\obj\Debug\netcoreapp3.1\TemperatureProjectLibrary.AssemblyInfo.cs
+C:\Users\Gleb\source\repos\WeatherForecast\TemperatureProjectLibrary\obj\Debug\netcoreapp3.1\TemperatureProjectLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Gleb\source\repos\WeatherForecast\TemperatureProjectLibrary\obj\Debug\netcoreapp3.1\TemperatureProjectLibrary.dll
+C:\Users\Gleb\source\repos\WeatherForecast\TemperatureProjectLibrary\obj\Debug\netcoreapp3.1\TemperatureProjectLibrary.pdb
